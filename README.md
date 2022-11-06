@@ -2,7 +2,7 @@
 
 Note app (Both frontend and backend) created with Flutter and Firebase.
 
-**Complete UI Contains:**
+## Complete UI Contains
 
 ► Sign in & Sign up
 ► Home Screen
