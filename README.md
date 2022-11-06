@@ -4,13 +4,13 @@ Note app (Both frontend and backend) created with Flutter and Firebase.
 
 ## Complete UI Contains
 
-► Sign in & Sign up
-► Home Screen
-► Setting screen
-► Account details
-► Appearance setting
-► Add note screen
-► Edit note screen
+* Sign in & Sign up
+* Home Screen
+* Setting screen
+* Account details
+* Appearance setting
+* Add note screen
+* Edit note screen
 
 ## Features
 
